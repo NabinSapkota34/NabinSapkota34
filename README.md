@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinsapkota34" alt="nabinsapkota34" /></a> </p>
 
-- 🔭 I’m currently working on **Cakify**
-
-- 🌱 I’m currently learning **ReactJs,Laravel,UI/UX,Java**
-
-- 👯 I’m looking to collaborate on **React-Laravel Integration**
-
-- 🤝 I’m looking for help with **Full-Stack project**
+- 🔭 I’m currently working on **CreativeAINetworks**
 
 - 👨‍💻 All of my projects are available at [www.nabinsapkota.com](www.nabinsapkota.com)
 
